@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 50%;
+  margin: auto;
+  borderradius: 0.5rem;
+}
+.output {
+  width: 80%;
+  text-align: left;
+}
