@@ -6,18 +6,21 @@ const musicDB = {
     {
       name: "Say Something - A Great Big World, Christina Aguilera,rating",
       rating: "4.5/5"
-    }
+    },
+    { name: "Skylar Grey - Coming Home", rating: "4/5" }
   ],
   Hindi: [
     { name: "Kho Gaye Hum Kahan", rating: "4/5" },
-    { name: "Hamdard", rating: "3.5/5" }
+    { name: "Hamdard", rating: "3.5/5" },
+    {name: "Tu dua h dua", rating: "4/5" }
   ],
   Japanese: [
     { name: "Tokyo Ghoul – Opening Theme – Unravel", rating: "5/5" },
     {
       name: "Hotaru No Hikari (Sha la la) (From Naruto Shippuden)",
       rating: "4.5/5"
-    }
+    },
+    { name: "Hikaru Nara (Your Lie In April)", rating: "5/5" }
   ]
 };
 
